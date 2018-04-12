@@ -1,0 +1,22 @@
+{
+  "username":"admin",
+  "roleList":[
+    {
+      "name":"管理员",
+      "pList":[
+        "monitor_search",
+        "synthesis_search",
+        "register_search",
+        "track_search",
+        "case_search",
+        "chart_search",
+        "video_search",
+        "user_search",
+        "role_search",
+        "log_search",
+        "videoResult_search",
+        "trackResult_search"
+      ]
+    }
+  ]
+}

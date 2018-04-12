@@ -1,0 +1,72 @@
+{
+  "count": 5,
+  "details": [
+    {
+      "area": [
+        "电子楼一层"
+      ],
+      "gtmCreateTime": "2018-03-29 15:25:22",
+      "status": 0,
+      "targetAge": "20",
+      "targetImgBase64": "D:/prison/trace/5.jpg",
+      "targetSex": 0,
+      "targetSimilar": 0.8,
+      "traceArea": "_9_10",
+      "traceId": 5
+    },
+    {
+      "area": [
+        "电子楼一层"
+      ],
+      "gtmCreateTime": "2018-03-29 15:25:19",
+      "status": 0,
+      "targetAge": "20",
+      "targetImgBase64": "D:/prison/trace/4.jpg",
+      "targetSex": 0,
+      "targetSimilar": 0.8,
+      "traceArea": "_9_10",
+      "traceId": 4
+    },
+    {
+      "area": [
+        "电子楼一层"
+      ],
+      "gtmCreateTime": "2018-03-29 15:25:14",
+      "status": 0,
+      "targetAge": "20",
+      "targetImgBase64": "D:/prison/trace/3.jpg",
+      "targetSex": 0,
+      "targetSimilar": 0.8,
+      "traceArea": "_9_10",
+      "traceId": 3
+    },
+    {
+      "area": [
+        "电子楼一层"
+      ],
+      "gtmCreateTime": "2018-03-29 15:24:59",
+      "status": 0,
+      "targetAge": "20",
+      "targetImgBase64": "D:/prison/trace/2.jpg",
+      "targetSex": 0,
+      "targetSimilar": 0.8,
+      "traceArea": "_9_10",
+      "traceId": 2
+    },
+    {
+      "area": [
+        "电子楼一层"
+      ],
+      "gtmCreateTime": "2018-03-29 15:24:53",
+      "status": 0,
+      "targetAge": "20",
+      "targetImgBase64": "D:/prison/trace/1.jpg",
+      "targetSex": 0,
+      "targetSimilar": 0.8,
+      "traceArea": "_9_10",
+      "traceId": 1
+    }
+  ],
+  "pageIndex": "1",
+  "pageSize": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "pageIndex":1,
+  "pageSize":10,
+  "details":[
+    {
+      "taskName":"任务名",
+      "similarity":0.80,
+      "createTime":"2018-03-27 12:12:12",
+      "updateTime":"2018-03-27 12:12:12",
+      "status":1,
+      "id":1
+    },
+    {
+      "taskName":"任务名",
+      "similarity":0.80,
+      "createTime":"2018-03-27 12:12:12",
+      "updateTime":"2018-03-27 12:12:12",
+      "status":1,
+      "id":2
+    }
+  ],
+  "count":20
+}

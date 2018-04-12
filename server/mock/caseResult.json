@@ -1,0 +1,53 @@
+{
+  "principal": "张三",
+  "targetInfo": [
+    {
+      "targetImg":"http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg",
+      "targetName": "李四"
+    },
+    {
+      "targetImg":"http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg",
+      "targetName": "王五"
+    }
+  ],
+  "listData": [
+    {
+      "similar": 0.78,
+      "site": "电子楼1楼东",
+      "caseDiscernTime": "2018-03-29 13:24:43",
+      "targetImg":"http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg",
+      "videoImg":"http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg"
+    },
+    {
+      "similar": 0.78,
+      "site": "医院1楼东",
+      "caseDiscernTime": "2018-03-29 13:24:43",
+      "targetImg":"http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg",
+      "videoImg":"http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg"
+    },
+    {
+      "similar": 0.91,
+      "site": "电子楼1楼东",
+      "caseDiscernTime": "2018-03-29 13:24:43",
+      "targetImg":"http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg",
+      "videoImg":"http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg"
+    },
+    {
+      "similar": 0.94,
+      "site": "医院1楼东",
+      "caseDiscernTime": "2018-03-29 13:24:43",
+      "targetImg":"http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg",
+      "videoImg":"http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg"
+    },
+    {
+      "similar": 0.82,
+      "site": "电子楼1楼东",
+      "caseDiscernTime": "2018-03-29 13:24:43",
+      "targetImg":"http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg",
+      "videoImg":"http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg"
+    }
+  ],
+  "name": "案件一",
+  "beginTime": "2018-03-30 13:30:22",
+  "endTime": "2018-03-30 13:30:22"
+}

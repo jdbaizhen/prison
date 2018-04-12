@@ -1,0 +1,367 @@
+{
+  "all": [
+    {
+      "fatherNode": 0,
+      "id": 1,
+      "reginChild": [
+        {
+          "cameraInfo": [],
+          "fatherNode": 1,
+          "id": 2,
+          "region": "person aisle",
+          "regionName": "二道门人员通道",
+          "value": "_1_2_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 1,
+          "id": 3,
+          "region": "vehicle aisle",
+          "regionName": "二道门车辆通道",
+          "value": "_1_3_0"
+        }
+      ],
+      "region": "secondo door",
+      "regionName": "二道门",
+      "value": "_0_1_0"
+    },
+    {
+      "fatherNode": 0,
+      "id": 4,
+      "reginChild": [
+        {
+          "cameraInfo": [],
+          "fatherNode": 4,
+          "id": 5,
+          "region": "prisoner aisle",
+          "regionName": "会见室犯人通道",
+          "value": "_4_5_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 4,
+          "id": 6,
+          "region": "relation aisle",
+          "regionName": "会见室家属通道",
+          "value": "_4_6_0"
+        }
+      ],
+      "region": "interview room",
+      "regionName": "会见室",
+      "value": "_0_4_0"
+    },
+    {
+      "fatherNode": 0,
+      "id": 7,
+      "reginChild": [
+        {
+          "cameraInfo": [],
+          "fatherNode": 7,
+          "id": 8,
+          "region": "hospital door",
+          "regionName": "医院大门",
+          "value": "_7_8_0"
+        }
+      ],
+      "region": "hospital",
+      "regionName": "医院",
+      "value": "_0_7_0"
+    },
+    {
+      "fatherNode": 0,
+      "id": 9,
+      "reginChild": [
+        {
+          "cameraInfo": [
+            {
+              "cameraName": "电子楼1楼东",
+              "channel": "3",
+              "coordinate": "x:89 y:90",
+              "deviceType": 1,
+              "id": 1,
+              "ip": "192.168.3.250",
+              "ipcNumber": "010201",
+              "password": "admin12345",
+              "port": 554,
+              "regionId": 10,
+              "username": "admin",
+              "value": "1"
+            }
+          ],
+          "fatherNode": 9,
+          "id": 10,
+          "region": "ground floor",
+          "regionName": "电子楼一层",
+          "value": "_9_10_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 9,
+          "id": 11,
+          "region": "second floor",
+          "regionName": "电子楼二层",
+          "value": "_9_11_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 9,
+          "id": 12,
+          "region": "third floor",
+          "regionName": "电子楼三层",
+          "value": "_9_12_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 9,
+          "id": 13,
+          "region": "fourth floor",
+          "regionName": "电子楼四层",
+          "value": "_9_13_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 9,
+          "id": 14,
+          "region": "fifth floor",
+          "regionName": "电子楼五层",
+          "value": "_9_14_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 9,
+          "id": 15,
+          "region": "sixfh floor",
+          "regionName": "电子楼六层",
+          "value": "_9_15_0"
+        }
+      ],
+      "region": "electronic building",
+      "regionName": "电子楼",
+      "value": "_0_9_0"
+    },
+    {
+      "fatherNode": 0,
+      "id": 16,
+      "reginChild": [
+        {
+          "cameraInfo": [],
+          "fatherNode": 16,
+          "id": 17,
+          "region": "ground floor",
+          "regionName": "大运服饰一层",
+          "value": "_16_17_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 16,
+          "id": 18,
+          "region": "second floor",
+          "regionName": "大运服饰二层",
+          "value": "_16_18_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 16,
+          "id": 19,
+          "region": "third floor",
+          "regionName": "大运服饰三层",
+          "value": "_16_19_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 16,
+          "id": 20,
+          "region": "fourth floor",
+          "regionName": "大运服饰四层",
+          "value": "_16_20_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 16,
+          "id": 21,
+          "region": "fifth floor",
+          "regionName": "大运服饰五层",
+          "value": "_16_21_0"
+        }
+      ],
+      "region": "costume building",
+      "regionName": "大运服饰",
+      "value": "_0_16_0"
+    },
+    {
+      "fatherNode": 0,
+      "id": 22,
+      "reginChild": [
+        {
+          "cameraInfo": [],
+          "fatherNode": 22,
+          "id": 23,
+          "region": "ground floor",
+          "regionName": "一号监房楼一层",
+          "value": "_22_23_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 22,
+          "id": 24,
+          "region": "second floor",
+          "regionName": "一号监房楼二层",
+          "value": "_22_24_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 22,
+          "id": 25,
+          "region": "third floor",
+          "regionName": "一号监房楼三层",
+          "value": "_22_25_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 22,
+          "id": 26,
+          "region": "fourth floor",
+          "regionName": "一号监房楼四层",
+          "value": "_22_26_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 22,
+          "id": 27,
+          "region": "fifth floor",
+          "regionName": "一号监房楼五层",
+          "value": "_22_27_0"
+        }
+      ],
+      "region": "one prison building",
+      "regionName": "一号监房楼",
+      "value": "_0_22_0"
+    },
+    {
+      "fatherNode": 0,
+      "id": 28,
+      "reginChild": [
+        {
+          "cameraInfo": [],
+          "fatherNode": 28,
+          "id": 29,
+          "region": "ground floor",
+          "regionName": "三号监房楼一层",
+          "value": "_28_29_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 28,
+          "id": 30,
+          "region": "second floor",
+          "regionName": "三号监房楼二层",
+          "value": "_28_30_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 28,
+          "id": 31,
+          "region": "third floor",
+          "regionName": "三号监房楼三层",
+          "value": "_28_31_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 28,
+          "id": 32,
+          "region": "fourth floor",
+          "regionName": "三号监房楼四层",
+          "value": "_28_32_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 28,
+          "id": 33,
+          "region": "fifth floor",
+          "regionName": "三号监房楼五层",
+          "value": "_28_33_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 28,
+          "id": 34,
+          "region": "sixfh floor",
+          "regionName": "三号监房楼六层",
+          "value": "_28_34_0"
+        }
+      ],
+      "region": "three prison building",
+      "regionName": "三号监房楼",
+      "value": "_0_28_0"
+    },
+    {
+      "fatherNode": 0,
+      "id": 35,
+      "reginChild": [
+        {
+          "cameraInfo": [],
+          "fatherNode": 35,
+          "id": 36,
+          "region": "ground floor",
+          "regionName": "四号监房楼一层",
+          "value": "_35_36_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 35,
+          "id": 37,
+          "region": "second floor",
+          "regionName": "四号监房楼二层",
+          "value": "_35_37_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 35,
+          "id": 38,
+          "region": "third floor",
+          "regionName": "四号监房楼三层",
+          "value": "_35_38_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 35,
+          "id": 39,
+          "region": "fourth floor",
+          "regionName": "四号监房楼四层",
+          "value": "_35_39_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 35,
+          "id": 40,
+          "region": "fifth floor",
+          "regionName": "四号监房楼五层",
+          "value": "_35_40_0"
+        },
+        {
+          "cameraInfo": [],
+          "fatherNode": 35,
+          "id": 41,
+          "region": "sixfh floor",
+          "regionName": "四号监房楼六层",
+          "value": "_35_41_0"
+        }
+      ],
+      "region": "four prison building",
+      "regionName": "四号监房楼",
+      "value": "_0_35_0"
+    }
+  ],
+  "nvrVOS": [
+    {
+      "id": 1,
+      "ip": "192.168.3.250",
+      "name": "192.168.3.250",
+      "password": "admin12345",
+      "port": "8000",
+      "username": "admin"
+    }
+  ],
+  "regionName": "全部摄像头",
+  "value": "_0_0"
+}

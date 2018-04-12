@@ -1,0 +1,67 @@
+[
+  {
+    "principal": "张三",
+    "similarity": "0.8",
+    "caseId": "1",
+    "imgData": [
+      "http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg",
+      "http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg"
+    ],
+    "caseName": "案件一",
+    "crossingData": "null",
+    "beginTime": "2018-03-30 13:30:22",
+    "endTime": "2018-03-30 13:30:22"
+  },
+  {
+    "principal": "张三",
+    "similarity": "0.8",
+    "caseId": "2",
+    "imgData": [
+      "http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg",
+      "http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg"
+    ],
+    "caseName": "案件一",
+    "crossingData": "null",
+    "beginTime": "2018-03-28 19:50:23",
+    "endTime": "2018-03-28 19:50:23"
+  },
+  {
+    "principal": "张三",
+    "similarity": "0.8",
+    "caseId": "3",
+    "imgData": [
+      "http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg",
+      "http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg"
+    ],
+    "caseName": "案件二",
+    "crossingData": "null",
+    "beginTime": "2018-03-28 19:50:24",
+    "endTime": "2018-03-28 19:50:24"
+  },
+  {
+    "principal": "张三",
+    "similarity": "0.8",
+    "caseId": "4",
+    "imgData": [
+      "http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg",
+      "http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg"
+    ],
+    "caseName": "案件三",
+    "crossingData": "null",
+    "beginTime": "2018-03-28 19:50:25",
+    "endTime": "2018-03-28 19:50:25"
+  },
+  {
+    "principal": "张三",
+    "similarity": "0.8",
+    "caseId": "5",
+    "imgData": [
+      "http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg",
+      "http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg"
+    ],
+    "caseName": "案件四",
+    "crossingData": "null",
+    "beginTime": "2018-03-28 19:50:27",
+    "endTime": "2018-03-28 19:50:27"
+  }
+]

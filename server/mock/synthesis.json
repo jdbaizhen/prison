@@ -1,0 +1,25 @@
+{
+  "count": 2,
+  "details": [
+    {
+      "discernSite": "电子楼一层",
+      "generalDiscernId": 3,
+      "generalDiscernImg": "D:/2.jpg",
+      "generalDiscernTime": "2018-03-29 10:07:59",
+      "matchImg": "D:/2.jpg",
+      "personNumber": "002",
+      "similar": 0.8
+    },
+    {
+      "discernSite": "电子楼一层",
+      "generalDiscernId": 1,
+      "generalDiscernImg": "D:/1.jpg",
+      "generalDiscernTime": "2018-03-29 10:07:59",
+      "matchImg": "D:/1.jpg",
+      "personNumber": "001",
+      "similar": 0.8
+    }
+  ],
+  "pageIndex": "1",
+  "pageSize": "10"
+}

@@ -1,0 +1,9 @@
+{
+  "targetAge": "20-30",
+  "targetImgBase64": "http://192.168.3.86:8080/prison/trace/1.jpg",
+  "targetSex": 1,
+  "targetSimilar": 0.8,
+  "traceArea": "_1_2",
+  "traceBeginTime": "2018-03-30 09:58:21",
+  "traceEndTime": "2018-03-30 09:58:21"
+}

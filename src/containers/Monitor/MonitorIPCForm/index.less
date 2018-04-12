@@ -1,0 +1,48 @@
+.ipc-box{
+  background-color: transparent;
+}
+.ipc-form{
+  background-color: #ffffff;
+  border: 5px solid rgb(24,144,255);
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0,0, 0.2);
+  width: 290px;
+  height: 100%;
+  box-sizing: border-box;
+  position: relative;
+  top:0;
+  left: 0;
+  margin: 5px;
+  .ipc-header,.ipc-footer{
+    background-color: rgb(236,236,236);
+    height: 54px;
+    padding: 16px;
+    position: absolute;
+    left: 0;
+    width: 100%;
+  }
+  .ipc-header{
+    top:0;
+    z-index: 1;
+  }
+  .ipc-footer{
+    bottom: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: right;
+  }
+  .ipc-form-body{
+    height: 100%;
+    box-sizing: border-box;
+    padding: 74px 10px;
+    overflow: auto;
+  }
+  .ipc-close{
+    float: right;
+    font-size: 22px;
+    color:rgba(0,0,0,0.45);
+    &:hover{
+      color:rgba(0,0,0,0.7);
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "count": 1000,
+
+  "list": [
+    {
+      "caseDiscernTime": "2018-03-30 14:03:00",
+      "discernSimilar": 0.9,
+      "site": "电子楼一层",
+      "traceDiscernId": 2,
+      "traceDiscernImg": "http://192.168.3.84:8080/prison/traceResult/1.jpg"
+    },
+    {
+      "caseDiscernTime": "2018-03-30 13:48:31",
+      "discernSimilar": 0.8,
+      "site": "电子楼一层",
+      "traceDiscernId": 1,
+      "traceDiscernImg": "http://192.168.3.84:8080/prison/traceResult/1.jpg"
+    }
+  ],
+  "pageIndex": 1,
+  "pageSize": 10,
+  "endTime": "2018-03-30 09:58:21",
+  "startTime": "2018-03-30 09:58:21",
+  "targetAge": "20",
+  "targetImgBase64": "http://192.168.3.84:8080/prison/trace/1.jpg",
+  "targetSex": 1,
+  "targetSimilar": 0.8,
+  "totalModels": [
+    {
+      "count": 2,
+      "site": "电子楼一层"
+    }
+  ],
+  "traceId": 1
+}

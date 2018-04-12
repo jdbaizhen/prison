@@ -1,0 +1,13 @@
+{
+  "caseId": 1,
+  "caseName": "案件一",
+  "principal": "张三",
+  "similarity": 0.8,
+  "crossingData": ["010405", "020305", "020205", "_4"],
+  "imgData": [
+    "http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg",
+    "http://txt25-2.book118.com/2017/0616/book115685/115684202.jpg"
+  ],
+  "beginTime": "2018-03-30 15:02:22",
+  "endTime": "2018-03-30 15:02:22"
+}

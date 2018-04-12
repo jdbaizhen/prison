@@ -1,0 +1,14 @@
+{
+  "cameraName": "电子楼3楼东",
+  "channel": "1",
+  "coordinate": "x:80 y:99",
+  "deviceType": 0,
+  "id": 5,
+  "ip": "192.168.3.212",
+  "ipcNumber": "010405",
+  "password": "admin12345",
+  "port": 8000,
+  "regionId": 12,
+  "username": "admin",
+  "value": "010405"
+}

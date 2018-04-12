@@ -1,0 +1,115 @@
+{
+  "result": [
+    {
+      "compareResult": [
+        {
+          "bigImg": "http://192.168.3.84:8080/prison/trace/1.jpg",
+          "id": 1,
+          "img": "http://192.168.3.84:8080/prison/trace/1.jpg",
+          "similarity": 0.8,
+          "targetImgId": 16
+        },
+        {
+          "bigImg": "http://192.168.3.84:8080/prison/trace/1.jpg",
+          "id": 2,
+          "img": "http://192.168.3.84:8080/prison/trace/1.jpg",
+          "similarity": 0.8,
+          "targetImgId": 16
+        },
+        {
+          "bigImg": "http://192.168.3.84:8080/prison/trace/1.jpg",
+          "id": 2,
+          "img": "http://192.168.3.84:8080/prison/trace/1.jpg",
+          "similarity": 0.8,
+          "targetImgId": 16
+        },
+        {
+          "bigImg": "http://192.168.3.84:8080/prison/trace/1.jpg",
+          "id": 2,
+          "img": "http://192.168.3.84:8080/prison/trace/1.jpg",
+          "similarity": 0.8,
+          "targetImgId": 16
+        },
+        {
+          "bigImg": "http://192.168.3.84:8080/prison/trace/1.jpg",
+          "id": 2,
+          "img": "http://192.168.3.84:8080/prison/trace/1.jpg",
+          "similarity": 0.8,
+          "targetImgId": 16
+        },
+        {
+          "bigImg": "http://192.168.3.84:8080/prison/trace/1.jpg",
+          "id": 2,
+          "img": "http://192.168.3.84:8080/prison/trace/1.jpg",
+          "similarity": 0.8,
+          "targetImgId": 16
+        },
+        {
+          "bigImg": "http://192.168.3.84:8080/prison/trace/1.jpg",
+          "id": 2,
+          "img": "http://192.168.3.84:8080/prison/trace/1.jpg",
+          "similarity": 0.8,
+          "targetImgId": 16
+        }
+      ],
+      "targetName": "目标1"
+    },
+    {
+      "compareResult": [],
+      "targetName": "目标2"
+    },
+    {
+      "compareResult": [],
+      "targetName": "目标3"
+    },
+    {
+      "compareResult": [],
+      "targetName": "目标4"
+    },
+    {
+      "compareResult": [],
+      "targetName": "目标5"
+    }
+  ],
+  "targetImg": [
+    {
+      "id": 16,
+      "img": "http://192.168.3.84:8080/prison/trace/1.jpg",
+      "videoTaskId": 34,
+      "targetName": "目标1"
+    },
+    {
+      "id": 18,
+      "img": "http://192.168.3.84:8080/prison/trace/1.jpg",
+      "videoTaskId": 34,
+      "targetName": "目标2"
+    },
+    {
+      "id": 19,
+      "img": "http://192.168.3.84:8080/prison/trace/1.jpg",
+      "videoTaskId": 34,
+      "targetName": "目标3"
+    },
+    {
+      "id": 20,
+      "img": "1522402435380.jpg",
+      "videoTaskId": 34,
+      "targetName": "目标4"
+    },
+    {
+      "id": 21,
+      "img": "1522407797018.jpg",
+      "videoTaskId": 34,
+      "targetName": "目标5"
+    }
+  ],
+  "videoVO": {
+    "beginTime": "2018-03-27 12:12:12",
+    "channel": "通道号",
+    "endTime": "2018-03-27 12:12:12",
+    "ip": "192.168.3.96",
+    "password": "admin",
+    "port": 8000,
+    "username": "admin"
+  }
+}

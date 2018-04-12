@@ -1,0 +1,17 @@
+{
+  "targetPicture":[{"img":"http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg"},
+    {"img":"http://txt25-2.book118.com/2017/0616/book115685/115684201.jpg"}],
+  "id":1,
+  "task":"任务名",
+  "similarity":0.80,
+  "type":1,
+  "video":{
+    "ip":"196.168.3.94",
+    "port":8080,
+    "username":"admin",
+    "password":"123456",
+    "channel":"通道号",
+    "beginTime":"2018-03-27 12:12:12",
+    "endTime":"2018-03-27 12:12:12"
+  }
+}
